@@ -72,5 +72,6 @@ This project builds upon publicly available resources and tools, including:
 
 The configuration, testing, payload generation, and research presented here were performed by me as part of an academic project under the guidance of Mr. Pranjal Upadhyay at Rashtriya Raksha University.
 
-
+## License
+[MIT](LICENSE)
 
