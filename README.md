@@ -62,5 +62,15 @@ result:
 - `SQLite.MySQLSQLDB...`
 - `<a href="http://msdn.microsoft.com/...">`
 
+## 📚 Acknowledgements
+
+This project builds upon publicly available resources and tools, including:
+
+- [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA)
+- [ModSecurity WAF](https://github.com/SpiderLabs/ModSecurity)
+- [GPT-Neo by EleutherAI](https://www.eleuther.ai/projects/gpt-neo/)
+
+The configuration, testing, payload generation, and research presented here were performed by me as part of an academic project under the guidance of Mr. Pranjal Upadhyay at Rashtriya Raksha University.
+
 
 
